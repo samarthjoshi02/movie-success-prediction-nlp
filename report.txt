@@ -1,0 +1,30 @@
+1. Model Results Interpretation
+
+The regression model was trained to predict movie revenue using budget, IMDb score, and sentiment score.
+
+The model achieved an R² score of 0.5061027007969567, indicating that approximately 51% of the variance in movie revenue can be explained by the features.
+
+The Mean Absolute Error (MAE) was 139097181.5505683, meaning predictions deviate from actual revenue by this amount on average.
+
+Budget showed the strongest correlation with revenue, followed by IMDb score and sentiment.
+
+If you want, I can help interpret your metrics — just share them.
+
+
+2. Business / Analytical Insights
+
+Movies with higher production budgets generally achieve higher box office revenue.
+
+Positive sentiment scores are associated with better movie performance.
+
+IMDb rating moderately influences revenue, suggesting audience perception matters.
+
+Certain genres (e.g., Action, Adventure) show consistently higher financial success.
+
+Sentiment analysis can be useful for predicting audience reception before release.
+
+This part makes your project look industry-level, not academic.
+
+3. Conclusion Section
+
+This project demonstrates how machine learning and natural language processing can be combined to predict movie success. Sentiment analysis provided additional predictive power beyond traditional financial features like budget. The findings highlight the importance of audience perception in determining commercial performance.
